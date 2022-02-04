@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>EVChargePoints</name>
+<visibility>1</visibility>
+<Schema name="EVChargePoints" id="kml_schema_ft_EVChargePoints">
+<SimpleField type="xsd:int" name="OBJECTID">
+<displayName>OBJECTID</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Name">
+<displayName>Name</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Details">
+<displayName>Details</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Longitude">
+<displayName>Longitude</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Latitude">
+<displayName>Latitude</displayName>
+</SimpleField>
+<SimpleField type="xsd:string" name="Type">
+<displayName>Type</displayName>
+</SimpleField>
+</Schema>
+<Folder id="kml_ft_EVChargePoints">
+<name>EVChargePoints</name>
+<Placemark id="kml_1">
+<name>kml_1</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>1</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Copley Street, Cork</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available) CP:C5HT8</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.46768289796164</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8951778567994</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">1</SimpleData>
+<SimpleData name="Name">Copley Street, Cork</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available) CP:C5HT8</SimpleData>
+<SimpleData name="Longitude">-8.46768289796164</SimpleData>
+<SimpleData name="Latitude">51.8951778567994</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.46603509420683,51.8952052342119,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_2">
+<name>kml_2</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>2</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Copley Street, Opposite Keohans Funeral Home, Cork</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 22kW (x2, ALL Occupied) CP:C80JH</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.46768289796164</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8951778567994</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">2</SimpleData>
+<SimpleData name="Name">Copley Street, Opposite Keohans Funeral Home, Cork</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 22kW (x2, ALL Occupied) CP:C80JH</SimpleData>
+<SimpleData name="Longitude">-8.46768289796164</SimpleData>
+<SimpleData name="Latitude">51.8951778567994</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.46761318264175,51.8951622131507,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_3">
+<name>kml_3</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>3</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>95 Glanmire Road, Cork City</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 22kW (x2, ALL Available)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.45649558034883</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9024754024261</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">3</SimpleData>
+<SimpleData name="Name">95 Glanmire Road, Cork City</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 22kW (x2, ALL Available)</SimpleData>
+<SimpleData name="Longitude">-8.45649558034883</SimpleData>
+<SimpleData name="Latitude">51.9024754024261</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.45649558000501,51.9024754026975,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_4">
+<name>kml_4</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>4</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>South Mall (opp no 41), Cork City</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available) CP:C84X5 Free parking for EVs while charging</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.47335349073475</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8963441827223</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">4</SimpleData>
+<SimpleData name="Name">South Mall (opp no 41), Cork City</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available) CP:C84X5 Free parking for EVs while charging</SimpleData>
+<SimpleData name="Longitude">-8.47335349073475</SimpleData>
+<SimpleData name="Latitude">51.8963441827223</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47335349016207,51.8963441827534,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_5">
+<name>kml_5</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>5</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Black Ash Park & Ride, Off South Link Road, Cork</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>1 charge point with facility to charge 2 cars</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.46650266978178</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8785884274526</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">5</SimpleData>
+<SimpleData name="Name">Black Ash Park &amp; Ride, Off South Link Road, Cork</SimpleData>
+<SimpleData name="Details">1 charge point with facility to charge 2 cars</SimpleData>
+<SimpleData name="Longitude">-8.46650266978178</SimpleData>
+<SimpleData name="Latitude">51.8785884274526</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.46650266962878,51.8785884281409,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_6">
+<name>kml_6</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>6</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Cork Institute of Technology</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>1 charge point with facility to charge 2 cars</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.53461811430965</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8859740483233</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">6</SimpleData>
+<SimpleData name="Name">Cork Institute of Technology</SimpleData>
+<SimpleData name="Details">1 charge point with facility to charge 2 cars</SimpleData>
+<SimpleData name="Longitude">-8.53461811430965</SimpleData>
+<SimpleData name="Latitude">51.8859740483233</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.53461811366965,51.8859740484576,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_7">
+<name>kml_7</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>7</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Cork County Hall</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>
+ Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.50772821768268</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8928978823019</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">7</SimpleData>
+<SimpleData name="Name">Cork County Hall</SimpleData>
+<SimpleData name="Details">
+ Type-2 AC Socket 22kW (x2, 1 Occupied, 1 Available)</SimpleData>
+<SimpleData name="Longitude">-8.50772821768268</SimpleData>
+<SimpleData name="Latitude">51.8928978823019</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.5077282175421,51.8928978822607,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_8">
+<name>kml_8</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>8</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Kent Station</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 22kW (x2, ALL Occupied)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.45664310976961</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9021679399292</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">8</SimpleData>
+<SimpleData name="Name">Kent Station</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 22kW (x2, ALL Occupied)</SimpleData>
+<SimpleData name="Longitude">-8.45664310976961</SimpleData>
+<SimpleData name="Latitude">51.9021679399292</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.45664311006318,51.9021679400722,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_9">
+<name>kml_9</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>9</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Paul Street Multi Storey Car Park</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.47482896550408</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.899790322481</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">9</SimpleData>
+<SimpleData name="Name">Paul Street Multi Storey Car Park</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</SimpleData>
+<SimpleData name="Longitude">-8.47482896550408</SimpleData>
+<SimpleData name="Latitude">51.899790322481</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47482896613379,51.8997903231231,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_10">
+<name>kml_10</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>10</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>North Main Street Multi Storey Car Park</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.47794257029627</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9008095813471</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">10</SimpleData>
+<SimpleData name="Name">North Main Street Multi Storey Car Park</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</SimpleData>
+<SimpleData name="Longitude">-8.47794257029627</SimpleData>
+<SimpleData name="Latitude">51.9008095813471</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47794256981805,51.9008095814138,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_11">
+<name>kml_11</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>11</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>City Hall Q-park Multi Storey Car Park </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces) Paid Parking</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.4643651150885</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8964500716616</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">11</SimpleData>
+<SimpleData name="Name">City Hall Q-park Multi Storey Car Park </SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces) Paid Parking</SimpleData>
+<SimpleData name="Longitude">-8.4643651150885</SimpleData>
+<SimpleData name="Latitude">51.8964500716616</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.46436511454874,51.8964500720839,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_12">
+<name>kml_12</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>12</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Grand Parade Q-park Multi Storey Car Park </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.47434528650396</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8965967400054</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">12</SimpleData>
+<SimpleData name="Name">Grand Parade Q-park Multi Storey Car Park </SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</SimpleData>
+<SimpleData name="Longitude">-8.47434528650396</SimpleData>
+<SimpleData name="Latitude">51.8965967400054</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47434528598779,51.896596740729,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_13">
+<name>kml_13</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>13</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>St. Finbarr’s Q-park Multi Storey Car Park </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces) Paid Parking</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.48107162341642</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8963712371735</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">13</SimpleData>
+<SimpleData name="Name">St. Finbarr’s Q-park Multi Storey Car Park </SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces) Paid Parking</SimpleData>
+<SimpleData name="Longitude">-8.48107162341642</SimpleData>
+<SimpleData name="Latitude">51.8963712371735</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.48107162345689,51.8963712376272,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_14">
+<name>kml_14</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>14</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Carrolls’s Quay Q-park Multi Storey Car Park </td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.4722857918156</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9017415593558</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">14</SimpleData>
+<SimpleData name="Name">Carrolls’s Quay Q-park Multi Storey Car Park </SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</SimpleData>
+<SimpleData name="Longitude">-8.4722857918156</SimpleData>
+<SimpleData name="Latitude">51.9017415593558</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47228579234161,51.9017415600301,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_15">
+<name>kml_15</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>15</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Musgrave Group HQ, Ballycureen</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.4749220121029</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8674462120282</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">15</SimpleData>
+<SimpleData name="Name">Musgrave Group HQ, Ballycureen</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW Slow Charger (x2 spaces)</SimpleData>
+<SimpleData name="Longitude">-8.4749220121029</SimpleData>
+<SimpleData name="Latitude">51.8674462120282</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47492201154746,51.8674462123755,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_16">
+<name>kml_16</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>16</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Deasey’s Topaz Service Station, Commons Road</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>CHAdeMO DC 45kW (1 space), Combo DC 45kW (1 space), AC (Type-2) 43kW (1 space)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.48252216814</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9197753599228</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fast Charge</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">16</SimpleData>
+<SimpleData name="Name">Deasey’s Topaz Service Station, Commons Road</SimpleData>
+<SimpleData name="Details">CHAdeMO DC 45kW (1 space), Combo DC 45kW (1 space), AC (Type-2) 43kW (1 space)</SimpleData>
+<SimpleData name="Longitude">-8.48252216814</SimpleData>
+<SimpleData name="Latitude">51.9197753599228</SimpleData>
+<SimpleData name="Type">Fast Charge</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.4825221685887,51.9197753603374,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_17">
+<name>kml_17</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>17</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Esso/Centra , Rochestown Road</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>CHAdeMO DC 45kW (1 space), Combo DC 45kW (1 space), AC (Type-2) 43kW (1 space)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.3954039516364</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8769996521065</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fast Charge</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">17</SimpleData>
+<SimpleData name="Name">Esso/Centra , Rochestown Road</SimpleData>
+<SimpleData name="Details">CHAdeMO DC 45kW (1 space), Combo DC 45kW (1 space), AC (Type-2) 43kW (1 space)</SimpleData>
+<SimpleData name="Longitude">-8.3954039516364</SimpleData>
+<SimpleData name="Latitude">51.8769996521065</SimpleData>
+<SimpleData name="Type">Fast Charge</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.39540395120664,51.8769996524689,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_18">
+<name>kml_18</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>18</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Topaz Frankfield Service Station</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>CHAdeMO DC 45kW (1 space), AC (Type-2) 43kW (1 space)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.47082780993981</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8720983163551</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fast Charge</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">18</SimpleData>
+<SimpleData name="Name">Topaz Frankfield Service Station</SimpleData>
+<SimpleData name="Details">CHAdeMO DC 45kW (1 space), AC (Type-2) 43kW (1 space)</SimpleData>
+<SimpleData name="Longitude">-8.47082780993981</SimpleData>
+<SimpleData name="Latitude">51.8720983163551</SimpleData>
+<SimpleData name="Type">Fast Charge</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.47082781055142,51.8720983163455,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_19">
+<name>kml_19</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>19</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Nissan Fast Charge Point</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>CHAdeMO DC 50kW (Available) Business hours only (Mon-Fri 9.00-18.00, Sat 9.00-15.00)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.5145661828456</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8934819797715</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Fast Charge</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">19</SimpleData>
+<SimpleData name="Name">Nissan Fast Charge Point</SimpleData>
+<SimpleData name="Details">CHAdeMO DC 50kW (Available) Business hours only (Mon-Fri 9.00-18.00, Sat 9.00-15.00)</SimpleData>
+<SimpleData name="Longitude">-8.5145661828456</SimpleData>
+<SimpleData name="Latitude">51.8934819797715</SimpleData>
+<SimpleData name="Type">Fast Charge</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.5145661824417,51.8934819798705,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_20">
+<name>kml_20</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>20</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>The River Lee Hotel</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW (Available) 24 hour access (Paid Car Park)
+</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.48484552138351</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.895954906142</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">20</SimpleData>
+<SimpleData name="Name">The River Lee Hotel</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW (Available) 24 hour access (Paid Car Park)
+</SimpleData>
+<SimpleData name="Longitude">-8.48484552138351</SimpleData>
+<SimpleData name="Latitude">51.895954906142</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.48484552099471,51.8959549063322,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_21">
+<name>kml_21</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>21</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Clayton Hotel Silver Springs</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 3.7kW (Available)
+Type-2 AC Socket 3.7kW (Available) 24 hour access</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.42394272932357</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9038926074931</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">21</SimpleData>
+<SimpleData name="Name">Clayton Hotel Silver Springs</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 3.7kW (Available)
+Type-2 AC Socket 3.7kW (Available) 24 hour access</SimpleData>
+<SimpleData name="Longitude">-8.42394272932357</SimpleData>
+<SimpleData name="Latitude">51.9038926074931</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.42394272951741,51.9038926074917,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_22">
+<name>kml_22</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>22</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>O'Sullivan's Bar, West Village, Douglas</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type-2 AC Socket 22kW (Available)
+Type-2 AC Socket 22kW (Available) Patrons Only</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.43970719327769</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.8759425486748</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td></td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">22</SimpleData>
+<SimpleData name="Name">O'Sullivan's Bar, West Village, Douglas</SimpleData>
+<SimpleData name="Details">Type-2 AC Socket 22kW (Available)
+Type-2 AC Socket 22kW (Available) Patrons Only</SimpleData>
+<SimpleData name="Longitude">-8.43970719327769</SimpleData>
+<SimpleData name="Latitude">51.8759425486748</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.43970719355532,51.8759425487505,0.0</coordinates>
+</Point>
+</Placemark>
+<Placemark id="kml_23">
+<name>kml_23</name>
+<snippet> </snippet>
+<description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
+<th>OBJECTID</th>
+<td>23</td>
+</tr><tr bgcolor="">
+<th>Name</th>
+<td>Castle Close Road, Blarney</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Details</th>
+<td>Type -2 22kw (x2 Spaces)</td>
+</tr><tr bgcolor="">
+<th>Longitude</th>
+<td>-8.5653550463422</td>
+</tr><tr bgcolor="#E3E3F3">
+<th>Latitude</th>
+<td>51.9313766554389</td>
+</tr><tr bgcolor="">
+<th>Type</th>
+<td>Standard</td>
+</tr></table></center>]]></description>
+<ExtendedData>
+<SchemaData schemaUrl="#kml_schema_ft_EVChargePoints">
+<SimpleData name="OBJECTID">23</SimpleData>
+<SimpleData name="Name">Castle Close Road, Blarney</SimpleData>
+<SimpleData name="Details">Type -2 22kw (x2 Spaces)</SimpleData>
+<SimpleData name="Longitude">-8.5653550463422</SimpleData>
+<SimpleData name="Latitude">51.9313766554389</SimpleData>
+<SimpleData name="Type">Standard</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Point>
+<coordinates>-8.56535504634216,51.9313766549149,0.0</coordinates>
+</Point>
+</Placemark>
+</Folder>
+</Document></kml>
